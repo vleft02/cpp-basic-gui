@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<collection>
+
+<film title="" directors="" actors="" genre="" year="" image="" 
+description=""> 
+</film>
+
+<film title="" directors="" actors="" genre="" year="" image="" 
+description=""> 
+</film>
+
+<film title="Fight Club" directors="David Fincher" actors="Brad Pitt, Edward Norton, Helena Bonham Carter" genre="drama" year="1999" image="FightClub.png" 
+description="An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."> 
+</film>
+
+<film title="Alien" directors="Ridley Scott" actors="Sigourney Weaver, Tom Skerritt, John Hurt" genre="thriller, scifi" year="1979" image="alien.png" 
+description="The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission."> 
+</film>
+
+
+<film title="The Godfather" directors="Francis Ford Coppola" actors="Marlon Brando, Al Pacino, James Caan" genre="drama, history" year="1972" image="Godfather.png" 
+description="The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son."> 
+</film>
+
+
+<film title="Schindler's List" directors="Steven Spielberg" actors="Liam Neeson, Ralph Fiennes, Ben Kingsley" genre="drama, history" year="1993" image="SchindlersList.png" 
+description="In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."> 
+</film>
+
+<film title="WestWorld" directors="Michael Crichton" actors="Yul Brynner, Richard Benjamin, James Brolin" genre="action, thriller , scifi" year="1973" image="westworld.png" 
+description="A robot malfunction creates havoc and terror for unsuspecting vacationers at a futuristic, adult-themed amusement park."> 
+</film>
+
+<film title="Amadeus" directors="Milos Forman" actors="F. Murray Abraham, Tom Hulce, Elizabeth Berridge" genre="history, drama" year="1984" image="amadeus.png" 
+description="The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was deeply jealous of Mozart's talent and claimed to have murdered him."> 
+</film>
+
+<film title="Pulp Fiction" directors="Quentin Tarantino" actors="John Travolta, Uma Thurman, Samuel L. Jackson" genre="crime, drama" year="1994" image="PulpFiction.png" 
+description="The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."> 
+</film>
+
+
+<film title="Indiana Jones and the Raiders of the Lost Ark" directors="Steven Spielberg" actors="Harrison Ford, Karen Allen, Paul Freeman" genre="action, adventure" year="1981" image="RaidersOfTheLostArk.png" 
+description="Archaeology professor Indiana Jones ventures to seize a biblical artefact known as the Ark of the Covenant. While doing so, he puts up a fight against Renee and a troop of Nazis.">
+</film>
+
+<film title="Indiana Jones and the Temple of Doom" directors="Steven Spielberg" actors="Harrison Ford, Kate Capshaw, Ke Huy Quan" genre="action, adventure" year="1984" image="TempleOfDoom.png" 
+description="A skirmish in Shanghai puts archaeologist Indiana Jones, his partner Short Round and singer Willie Scott crossing paths with an Indian village desperate to reclaim a rock stolen by a secret cult beneath the catacombs of an ancient palace.">
+</film>
+
+<film title="Star Wars: Episode IV - A New Hope" directors="George Lucas" actors="Mark Hamill, Harrison Ford, Carrie Fisher" genre="action, adventure, fantasy" year="1977" image="ANewHope.png" 
+description="Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.">
+</film>
+
+<film title="Utu" directors="Geoff Murphy" actors="Anzac Wallace, Bruno Lawrence, Tim Elliott" genre="history, drama" year="1983" image="utu.png" 
+description="In 1870, a Maori warrior working with the British finds his village massacred, and vows revenge."> 
+</film>
+
+<film title="Star Wars: Episode V - The Empire Strikes Back" directors="Irvin Kershner" actors="Mark Hamill, Harrison Ford, Carrie Fisher" genre="action, adventure, fantasy" year="1980" image="EmpireStrikesBack.png" 
+description="After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett." > 
+</film>
+
+<film title="One Flew Over the Cuckoo's Nest" directors="Milos Forman" actors="Jack Nicholson, Louise Fletcher, Michael Berryman" genre="drama" year="1975" image="cuckoo.png" 
+description="In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse." > 
+</film>
+
+<film title="City of God" directors="Fernando Meirelles" actors="Alexandre Rodrigues, Leandro Firmino, Seu Jorge" genre="crime, drama" year="2002" image="cog.png" 
+description="In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin." > 
+</film>
+
+<film title="Amelie" directors="Fernando Meirelles" actors="Audrey Tautou, Mathieu Kassovitz, Rufus" genre="romance" year="2001" image="amelie.png" 
+description="Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love." > 
+</film>
+
+<film title="Fallen Angels" directors="Wong Kar Wai" actors="Leon Lai, Michelle Reis, Takeshi Kaneshiro" genre="crime, drama, romance" year="1995" image="fa.png" 
+description="This Hong Kong-set crime drama follows the lives of a hitman, hoping to get out of the business, and his elusive female partner." > 
+</film>
+
+<film title="Conan the Barbarian" directors="John Milius" actors="Arnold Schwarzenegger, James Jones, Max Sydow" genre="action, fantasy" year="1982" image="conan.png" 
+description="A young boy, Conan, becomes a slave after his parents are killed and tribe destroyed by a savage warlord and sorcerer, Thulsa Doom. When he grows up he becomes a fearless, invincible fighter. Set free, he plots revenge against Thulsa Doom. " > 
+</film>
+
+<film title="Solaris" directors="Andrei Tarkovsky" actors="Natalya Bondarchuk, Donatas Banionis, Jüri Järvet," genre="action, scifi" year="1972" image="solaris.png" 
+description="A psychologist is sent to a station orbiting a distant planet in order to discover what has caused the crew to go insane." > 
+</film>
+
+<film title="The Terminator" directors="James Cameron" actors="Arnold Schwarzenegger, Linda Hamilton, Michael Biehn" genre="action, scifi" year="1984" image="Terminator.png" 
+description="A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.">
+</film>
+
+<film title="The Shawshank   Redemption" directors="Frank Darabont" actors="Tim Robbins,Morgan Freeman, Bob Gutton" genre="drama" year="1994" image="Shawshank.png" 
+description="Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.">
+</film>
+
+<film title="The Dark Knight" directors="Christopher Nolan" actors="Christian Bale, Heath Ledger, Michael Caine" genre="action, crime, drama" year="2008" image="batman.png" 
+description="When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.">
+</film>
+
+<film title="The Silence of the Lambs" directors="Jonathan Demme" actors="Jodie Foster, Anthony Hopkins, Lawrence A. Bonney" genre="crime, thriller" year="1991" image="hannibal.png" 
+description="A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.">
+</film>
+
+<film title="Blade Runner" directors="Ridley Scott" actors="Harrison Ford, Rutger Hauer, Sean Young" genre="action, drama, scifi" year="1982" image="bladerunner.png" 
+description="A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.">
+</film>
+
+<film title="Die Hard" directors="John McTiernan" actors="Bruce Willis, Alan Rickman, Bonnie Bedelia" genre="action,thriller" year="1988" image="diehard.png" 
+description="A New York City police officer tries to save his estranged wife and several others taken hostage by terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.">
+</film>
+
+<film title="Slumdog Millionaire" directors="Danny Boyle" actors="Dev Patel, Freida Pinto, Anil Kapoor" genre="drama, romance" year="2008" image="slumdog.png" 
+description="A Mumbai teenager reflects on his life after being accused of cheating on the Indian version of Who Wants to be a Millionaire.">
+</film>
+
+<film title="Memento" directors="Christopher Nolan" actors="Guy Pearce, Carrie-Anne Moss, Joe Pantoliano" genre="thriller" year="2000" image="memento.png" 
+description="A man with short-term memory loss attempts to track down his wife's murderer.">
+</film>
+
+<film title="Eternal Sunshine of the Spotless Mind" directors=" Michel Gondry" actors="Jim Carrey, Kate Winslet, Tom Wilkinson" genre="drama, romance, scifi" year="2004" image="Estsm.png" 
+description="When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories for ever.">
+</film>
+<film title="" directors="" actors="" genre="" year="" image="" 
+description=""> 
+</film>
+
+<film title="" directors="" actors="" genre="" year="" image="" 
+description=""> 
+</film>
+
+
+
+</collection>
